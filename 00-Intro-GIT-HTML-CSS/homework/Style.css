@@ -1,0 +1,60 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+   
+   
+   h1 {
+        color: brown;
+    }
+
+    img {
+        width: 400px;
+    
+    }
+
+    #thirdDiv {
+
+        width: 500px;
+        height: 600px;
+        background-color: cornsilk;
+        padding: 50px;
+        border: 20px;
+        border-color: darkmagenta;
+        border-style:groove;
+        position: absolute;
+        left: 30%;
+        
+  
+      
+}
+
+    
+
+    #spanId {
+        font-size: 25px;
+        margin: 50px;
+    }
+
+    body {
+
+        background-image: url(./mx-.jpg);
+      background-repeat: no-repeat;
+     
+    }
+
+    a {
+
+        font-size: 50px;
+        color:black
+    }
+    .divClass{
+
+       text-align: center;
+    }
+
+    
+
+    
